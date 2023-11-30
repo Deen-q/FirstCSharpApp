@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FirstC_App": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7048",
+      "launchBrowser": false
+    }
+  }
+}
